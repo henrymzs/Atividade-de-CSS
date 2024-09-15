@@ -1,0 +1,26 @@
+.content {
+    text-align: center;
+}
+
+.line {
+    width: 15%; 
+    margin: auto;  
+    border-top: 2px solid #d40ac4;
+}
+.content_title {
+    color: #d40ac4;
+    font-size: 2rem;
+    padding-block: 1rem; 
+}
+
+.content p {
+    padding-block: 2rem;
+}
+
+.content_p {
+    margin: 0 auto; 
+    width: 100%; 
+    max-width: 1500px; 
+    text-align: justify; 
+    padding: 10px; 
+  }

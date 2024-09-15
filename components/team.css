@@ -1,0 +1,32 @@
+.team {
+    display: flex;
+    margin-top: 30px;
+    gap: 2rem;
+    justify-content: center;
+}
+.title {
+    color: #d40ac4;
+    font-size: 2rem;
+    padding-block: 1rem; 
+    text-align: center;
+}
+
+.team-member {
+    text-align: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #7408bd;
+    margin: auto;  
+}
+.team_title {
+    font-size: 1.5em;
+}
+.team-member p {
+    margin-top: 10px;
+    color: #d40ac4;
+
+}
